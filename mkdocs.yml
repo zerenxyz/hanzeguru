@@ -53,3 +53,15 @@ extra_css:
   - stylesheets/extra.css
 plugins:
   - search
+nav:
+    - Home: 'index.md'
+    - 'General':
+        - 'General Information': 'general.md'
+        - 'Links': 'general/links.md'
+        - 'Another Header':
+            - 'Title': ''
+    - About:
+        - 'Who are we': 'about/who-are-we.md'
+        - 'Changelog': 'about/changelog.md'
+        - 'Privacy': 'about/privacy.md'
+        - 'License': 'about/license.md'
