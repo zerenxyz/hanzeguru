@@ -1,0 +1,72 @@
+site_name: HanzeWiki
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+  - scheme: default
+    accent:
+    toggle:
+      icon: material/weather-night
+      name: Switch to dark mode
+  - scheme: slate
+    primary:
+    accent: 
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  language: en
+  # logo: material/logo2.svg
+  icon:
+    logo: logo
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - header.autohide
+markdown_extensions:
+  - toc:
+      permalink: ⚓︎
+extra:
+  alternate:
+    # Switch to English
+    - name: English
+      lang: en
+    #Switch to Dutch
+    - name: Dutch
+      lang: nl
+  # version:
+  #   provider: mike
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://twitter.com/squidfunk
+copyright: Copyright &copy; 2016 - 2020 Martin Donath
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  - search
+
+# palette:
+#     - scheme: default
+#       primary: indigo
+#       accent: indigo
+#       toggle:
+#         icon: material/toggle-switch-off-outline
+#         name: Switch to dark mode
+#     - scheme: slate
+#       primary: red
+#       accent: red
+#       toggle:
+#         icon: material/toggle-switch
+#         name: Switch to light mode
+#   font:
+#     text: Roboto
+#     code: Roboto Mono
+    
