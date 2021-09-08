@@ -1,7 +1,7 @@
 site_name: HanzeWiki
 theme:
   name: material
-  custom_dir: overrides
+  custom_dir: overrides/
   palette:
   - scheme: default
     accent: indiego
@@ -18,9 +18,10 @@ theme:
     text: Roboto
     code: Roboto Mono
   language: en
-  # logo: material/logo2.svg
-  icon:
-    logo: logo
+  logo: img/logo.png
+  favicon: img/favicon.ico
+  # icon:
+    # logo: logo
   features:
     - navigation.instant
     - navigation.tabs
@@ -52,21 +53,3 @@ extra_css:
   - stylesheets/extra.css
 plugins:
   - search
-
-# palette:
-#     - scheme: default
-#       primary: indigo
-#       accent: indigo
-#       toggle:
-#         icon: material/toggle-switch-off-outline
-#         name: Switch to dark mode
-#     - scheme: slate
-#       primary: red
-#       accent: red
-#       toggle:
-#         icon: material/toggle-switch
-#         name: Switch to light mode
-#   font:
-#     text: Roboto
-#     code: Roboto Mono
-    

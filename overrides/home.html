@@ -1,0 +1,73 @@
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+<style>
+	.md-header {
+		position: initial
+	}
+
+	.md-main__inner {
+		margin: 0
+	}
+
+	.md-content {
+		display: none
+	}
+
+	@media screen and (min-width:60em) {
+		.md-sidebar--secondary {
+			display: none
+		}
+	}
+
+	@media screen and (min-width:76.25em) {
+		.md-sidebar--primary {
+			display: none
+		}
+	}
+</style>
+<section class="mdx-container">
+	<div class="md-grid md-typeset">
+		<div class="mdx-hero">
+			<div class="mdx-hero__image">
+				<img src="assets/images/student.svg" alt="" width="500" height="auto" draggable="false">
+			</div>
+			<div class="mdx-hero__content">
+				<h1>By Students.
+					<br>
+					For Students.</h1>
+				<!-- <p>under one roof. By Students for Students.</p> -->
+				<!-- <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}"
+					class="md-button md-button--primary umami--click--get-started-button">
+					Get started
+				</a> -->
+				<a href="{{ 'getting-started' | url }}" title="Get started"
+					class="md-button md-button--primary umami--click--get-started-button">
+					View Information
+				</a>
+				<a href="{{ 'try' | url }}" title="Try it out" class="md-button umami--click--try-it-button">
+					Ask Directly
+				</a>
+			</div>
+		</div>
+	</div>
+</section>
+<div class="md-grid md-typeset">
+
+	<div>
+		<h2>What is HanzeWiki?</h2>
+		<p>...</p>
+	</div>
+
+	<div>
+		<h2>What information do we have here?</h2>
+		<p>...</p>
+	</div>
+</div>
+{% endblock %}
+
+{% block content %}{% endblock %}S
+
+{% block footer %}
+	{% include "partials/footer.html" %}
+{% endblock %}
