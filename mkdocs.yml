@@ -18,10 +18,10 @@ theme:
     text: Roboto
     code: Roboto Mono
   language: en
-  logo: img/logo.png
+  # logo: img/logo.png
   favicon: img/favicon.ico
-  # icon:
-    # logo: logo
+  icon:
+    logo: fontawesome/solid/life-ring
   features:
     - navigation.instant
     - navigation.tabs
@@ -35,6 +35,12 @@ theme:
 markdown_extensions:
   - toc:
       permalink: ⚓︎
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 extra:
   alternate:
     # Switch to English
@@ -58,8 +64,11 @@ nav:
     - 'General':
         - 'General Information': 'general.md'
         - 'Links': 'general/links.md'
-        - 'Another Header':
-            - 'Title': ''
+        - 'Departments':
+            - 'Student Administration': 'general/departments/studentadministration.md'
+            - 'International Office': 'general/departments/internationaloffice.md'
+            - 'Study Desk': 'general/departments/studydesk.md'
+            - 'International Student Team': 'general/departments/internationalstudentteam.md'
     - About:
         - 'Who are we': 'about/who-are-we.md'
         - 'Changelog': 'about/changelog.md'
