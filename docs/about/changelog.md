@@ -2,19 +2,19 @@
 
 <!--
 	NOTE: MOST RECENT SHOULD BE AT THE TOP!
+	Title Format: [version] (DD-MM-YYYY)
 -->
 
-## v3.0.0 (2021-05-30)
+## v0.1 (09-09-2021)
 
-Months overdue (started in February), v3 brings a complete rewrite with a lot more code of much higher quality.
+Added new pages with information.
 
-New features include:
+- Updated [Links](../general/links.md) information
+- Added Departments sub category
+- Added [International Office](../general/departments/internationaloffice.md)
+- Added [International Student Team](../general/departments/internationalstudentteam.md)
+- Added [Student Administration](../general/departments/studentadministration.md)
+- Added [Study Desk](../general/departments/studydesk.md)
+- Changed the heart icon on the bottom of each page into a direct link to the github
 
-- Multi-guild support
-- Multiple ticket categories per guild
-- Multiple support roles per category
-- Multiple panels, with 2 new panel types (multi-category, and reaction-less)
-- Localisation
-- Opening questions separate to the opening message
-- Tags
-- Surveys
+
