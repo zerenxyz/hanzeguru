@@ -5,6 +5,13 @@
 	Title Format: [version] (DD-MM-YYYY)
 -->
 
+## v0.2 (11-09-2021)
+
+- Added [Osiris](../osiris/osiris-general.md)
+- Added [Blackboard](../blackboard/bb-general.md)
+- Added [Locations](../locations/zp11.md)
+
+
 ## v0.1 (09-09-2021)
 
 Added new pages with information.

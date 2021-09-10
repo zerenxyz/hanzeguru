@@ -69,6 +69,16 @@ nav:
             - 'International Office': 'general/departments/internationaloffice.md'
             - 'Study Desk': 'general/departments/studydesk.md'
             - 'International Student Team': 'general/departments/internationalstudentteam.md'
+    - Locations:
+        - 'Van Doorenveste (ZP11)': 'locations/zp11.md'
+        - 'Van Olsttoren (ZP07)': 'locations/zp07.md'
+        - 'Willem-Alexander Sports Centre (ZP17)': 'locations/zp17.md'
+        - 'Digital Society (ZE10)': 'locations/ze10.md'
+        - 'De Deimten (DD05)': 'locations/dd05.md'
+    - Osiris:
+        - 'General Information - Osiris': 'osiris/osiris-general.md'
+    - Blackboard:
+        - 'General Information - Blackboard': 'blackboard/bb-general.md'
     - About:
         - 'Who are we': 'about/who-are-we.md'
         - 'Changelog': 'about/changelog.md'
