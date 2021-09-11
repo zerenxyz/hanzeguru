@@ -106,6 +106,50 @@ nav:
               - 'Course Deregister': 'osiris/new/n-course-de-register.md'
     - Blackboard:
         - 'General Information - Blackboard': 'blackboard/bb-general.md'
+        - Homepage:
+          - 'Overview': 'blackboard/bb-homepage.md'
+          - 'My Tab': 'blackboard/bb-mytab.md'
+        - Courses:
+          - 'Overview': 'blackboard/bb-courses.md'
+          - 'Blackboard Collaborate': 'blackboard/bb-collaborate.md'
+          - 'Hand-In': 'blackboard/bb-handin.md'
+        - 'Content System': 'blackboard/bb-content-system.md'
+        - 'Notification': 'blackboard/bb-notification.md'
+    - Housing:
+        - 'Housing in Groningen': 'housing/housing-in-groningen.md'
+        - 'Rental Agencies': 'housing/rental-agencies.md'
+        - Student Accommodation:
+          - 'Overview': 'housing/st-acc/st-overview.md'
+          - 'SSH': 'housing/st-acc/ssh.md'
+          - 'SOS Housing': 'housing/st-acc/sos-housing.md'
+          - 'XIOR': 'housing/st-acc/xior.md'
+          - 'BlockHouse': 'housing/st-acc/blockhouse.md'
+        - Private Renting:
+          - 'Rental Websites': 'housing/rental-websites.md'
+          - 'Facebook Groups': 'housing/facebook-groups.md'
+    - Working: 'working/wrk-overview.md'
+    - Banking:
+      - 'How to bank account': 'banking/howtobank.md'
+      - 'Dutch Banks': 'banking/dutch-banks.md'
+    - Groningen Municipality:
+      - 'Overview': 'groningen/gro-overview.md'
+      - 'Address Registration': 'groningen/address-registration.md'
+      - 'DigiD': 'groningen/digid.md'
+      - 'Groningen To See': 'groningen/groningentosee.md'
+      - Transport:
+        - 'Public Transport': 'groningen/public-transport.md'
+        - Private Transport:
+          - 'Renting Bikes': 'groningen/renting-bikes.md'
+          - 'Walking': 'groningen/walking.md'
+          - 'Taxi': 'groningen/taxi.md'
+        - Insurance:
+          - 'Health': 'groningen/health.md' 
+          - 'Student Insurance': 'groningen/student-insurance.md'
+          - 'Dutch Basic Health Care': 'groningen/dutch-healthcare.md'
+        - More Information:
+          - 'City Tax': 'groningen/city-tax.md'
+          - 'Drivers License': 'groningen/driver-license.md'
+          - 'Emergency Departments': 'groningen/emergencydep.md'
     - About:
         - 'Who are we': 'about/who-are-we.md'
         - 'Changelog': 'about/changelog.md'
