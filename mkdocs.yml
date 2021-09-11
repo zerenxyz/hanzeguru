@@ -38,17 +38,20 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 extra:
-  alternate:
-    # Switch to English
-    - name: English
-      lang: en
-    #Switch to Dutch
-    - name: Dutch
-      lang: nl
+  # alternate:
+  #   # Switch to English
+  #   - name: English
+  #     lang: en
+  #     link: localhost:8000/en/
+  #   #Switch to Dutch
+  #   - name: Dutch
+  #     lang: nl
+  #     link: localhost:8000/nl/
   # version:
   #   provider: mike
   social:
@@ -62,21 +65,45 @@ plugins:
 nav:
     - Home: 'index.md'
     - General:
-        - 'General Information': 'general.md'
-        - 'Links': 'general/links.md'
+        - 'Welcome': 'general/general.md'
+        - 'Outlook': 'general/outlook.md'
+        - 'Digirooster': 'general/digirooster.md'
+        - 'OnStage': 'general/onstage.md'
         - 'Departments':
             - 'Student Administration': 'general/departments/studentadministration.md'
             - 'International Office': 'general/departments/internationaloffice.md'
             - 'Study Desk': 'general/departments/studydesk.md'
             - 'International Student Team': 'general/departments/internationalstudentteam.md'
-    - Locations:
-        - 'Van Doorenveste (ZP11)': 'locations/zp11.md'
-        - 'Van Olsttoren (ZP07)': 'locations/zp07.md'
-        - 'Willem-Alexander Sports Centre (ZP17)': 'locations/zp17.md'
-        - 'Digital Society (ZE10)': 'locations/ze10.md'
-        - 'De Deimten (DD05)': 'locations/dd05.md'
+            - 'ICT Desk': 'general/departments/ictdesk.md'
+            - 'Media Desk': 'general/departments/mediadesk.md'
+            - 'CMD Front Office': 'general/departments/cmdfrontoffice.md'
+            - 'Career Desk': 'general/departments/careerdesk.md'
+            - 'Makerspace': 'general/departments/makerspace.md'
+            - 'Spacelab': 'general/departments/spacelab.md'
     - Osiris:
         - 'General Information - Osiris': 'osiris/osiris-general.md'
+        - 'Osiris Versions': 'osiris/osiris-version.md'
+        - 'Old Osiris':
+          - 'Personal Details': 'osiris/old/o-personal-details.md'
+          - 'Enrollment Status': 'osiris/old/o-enrollmentstatus.md'
+          - 'Progress View': 'osiris/old/o-progress-view.md'
+          - 'Results': 'osiris/old/o-results.md'
+          - 'Cases': 'osiris/old/o-cases.md'
+          - Courses:
+            - 'Courses Page': 'osiris/old/o-courses.md'
+            - 'Course Register': 'osiris/old/o-course-register.md'
+            - 'Course Deregister': 'osiris/old/o-course-de-register.md'
+          - 'Stay Abroad': 'osiris/old/o-stay-abroad.md'
+        - 'New Osiris':
+            - 'Personal Details': 'osiris/new/n-personal-details.md'
+            - 'Enrollment Status': 'osiris/new/n-enrollmentstatus.md'
+            - 'Progress View': 'osiris/new/n-progress-view.md'
+            - 'Results': 'osiris/new/n-results.md'
+            - 'Cases': 'osiris/new/n-cases.md'
+            - Courses:
+              - 'Course Page': 'osiris/new/n-courses.md'
+              - 'Course Register': 'osiris/new/n-course-register.md'
+              - 'Course Deregister': 'osiris/new/n-course-de-register.md'
     - Blackboard:
         - 'General Information - Blackboard': 'blackboard/bb-general.md'
     - About:

@@ -1,4 +1,4 @@
 ---
 template: main.html
-title: De Deimten (DD05)
+title: Course Register
 ---
