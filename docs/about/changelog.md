@@ -5,6 +5,16 @@
 	Title Format: [version] (DD-MM-YYYY)
 -->
 
+## v0.4 (12-09-2021)
+
+!!! success "Added"
+
+	- Additional blackboard pages
+	- New housing page
+	- New working page _(incomplete)_
+	- New banking page
+	- New Groningen Municipality page
+
 ## v0.3 (11-09-2021)
 
 !!! success "Added"
