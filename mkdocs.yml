@@ -18,10 +18,10 @@ theme:
     text: Roboto
     code: Roboto Mono
   language: en
-  # logo: img/logo.png
-  favicon: img/favicon.ico
-  icon:
-    logo: fontawesome/solid/life-ring
+  logo: img/logo.png
+  favicon: img/favicon.png
+  # icon:
+  #   logo: fontawesome/solid/life-ring
   features:
     - navigation.instant
     - navigation.tabs
