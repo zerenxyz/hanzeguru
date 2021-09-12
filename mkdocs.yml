@@ -39,6 +39,8 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - pymdownx.tabbed
+  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -57,7 +59,7 @@ extra:
   social:
     - icon: fontawesome/brands/discord
       link: https://twitter.com/squidfunk
-copyright: Copyright &copy; 2016 - 2020 Martin Donath
+copyright: Copyright
 extra_css:
   - stylesheets/extra.css
 plugins:
