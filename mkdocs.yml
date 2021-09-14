@@ -1,4 +1,5 @@
 site_name: HanzeGuru
+site_url: https://hanzeguru.nl/
 theme:
   name: material
   custom_dir: overrides/
