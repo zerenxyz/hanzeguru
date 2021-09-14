@@ -1,5 +1,8 @@
+---
+template: main.html
+title: Privacy
+---
+
 # Privacy
 
-## What you need to know
-
-We do not store any user data.
+This website is purely for information purposes. We do not store any user data nor use any advertisements.

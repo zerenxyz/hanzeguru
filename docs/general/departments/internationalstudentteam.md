@@ -3,6 +3,15 @@ template: main.html
 title: Hanze International Student Team
 ---
 
+<!--
+
+Makrdown Syntax: https://www.markdownguide.org/basic-syntax
+
+Edit things below this point.
+Make sure to keep heading for each section and do not make big blocks of text.
+
+-->
+
 # Hanze International Student Team
 
 The Hanze International Student Team consists of Hanze UAS students from all over the world who are enthusiastic about helping you obtain information on the student life, the campus, the way of teaching at Hanze UAS, and the vibrant student life in Groningen.​ 

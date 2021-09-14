@@ -3,6 +3,15 @@ template: main.html
 title: Immigration Office
 ---
 
+<!--
+
+Makrdown Syntax: https://www.markdownguide.org/basic-syntax
+
+Edit things below this point.
+Make sure to keep heading for each section and do not make big blocks of text.
+
+-->
+
 # Immigration Office
 
 The International Office helps international students obtaining a suitable insurance and a residence permit for study purpose when needed. They advise on how to find accommodation and other practical matters such as obtaining a social security number (BSN), tax refund, legal consequences when finding a job in the Netherlands and more.
