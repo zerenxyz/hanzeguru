@@ -13,3 +13,6 @@ Make sure to keep heading for each section and do not make big blocks of text.
 -->
 
 # Blackboard Collaborate
+
+<!-- Use this image as needed -->
+![Blackboard Collaborate Image](../img/assets/blackboard/collab.png)

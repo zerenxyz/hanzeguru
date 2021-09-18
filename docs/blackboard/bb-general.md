@@ -13,6 +13,6 @@ Make sure to keep heading for each section and do not make big blocks of text.
 -->
 
 # Overview
-Blackboard is your best and worse friend
+Blackboard is the home for all the course content as well as your hand-in point for assignments with each course.
 
-Info coming soon
+...
