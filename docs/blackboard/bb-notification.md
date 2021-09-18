@@ -13,3 +13,6 @@ Make sure to keep heading for each section and do not make big blocks of text.
 -->
 
 # Notification
+
+<!-- Use this image as needed -->
+![Blackboard Collaborate Image](../img/assets/blackboard/notification.png)
