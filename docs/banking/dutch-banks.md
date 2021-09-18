@@ -17,7 +17,7 @@ Make sure to keep heading for each section and do not make big blocks of text.
 <img 
 src="https://i.imgur.com/DHULjfo.jpg" 
 alt="Sweet Monopoly Cash" 
-style="height: 250px;width: 100%; object-fit: cover;object-position: top;"
+style="height: 250px;width: 100%; object-fit: cover;object-position: top;border-radius: 10px"
 />
 
 If you're going to live in the Ntherlands, you will need to own a Dutch bank account! Fortunately, there are plenty of options to choose from and all of them provide student accounts. You will find a list of some of the popular Dutch banks below, with links to their corresponding websites. 
