@@ -35,18 +35,18 @@ Remember, you will need your BSN first before opening an account in any bank. [C
 !!! tip
     Google Chrome usually automatically translates a webpage that is not primarily in English. If that does not happen and there is no visible option for an English version,     right-click on the page and select "Translate to English"!
 
-# More (But Less Popular) Options
+## More (But Less Popular) Options
 
-## [SNS Bank](https://www.snsbank.nl/particulier/home.html?s_kwcid=AL!6157!3!376835762297!e!!g!!sns%20bank&gclid=CjwKCAjw0On8BRAgEiwAincsHBytdQlIpY-bpeMA-zwgP2vxKUYuOetcMncghmIsN7NSojHCu_O2ARoCbs4QAvD_BwE)
+### [SNS Bank](https://www.snsbank.nl/particulier/home.html?s_kwcid=AL!6157!3!376835762297!e!!g!!sns%20bank&gclid=CjwKCAjw0On8BRAgEiwAincsHBytdQlIpY-bpeMA-zwgP2vxKUYuOetcMncghmIsN7NSojHCu_O2ARoCbs4QAvD_BwE)
 
-## [Triodos Bank](https://www.triodos.nl/)
+### [Triodos Bank](https://www.triodos.nl/)
 
-## [ASN Bank](https://www.asnbank.nl/home.html)
+### [ASN Bank](https://www.asnbank.nl/home.html)
 
-# Mobile Banks
+## Mobile Banks
 
 Mobile banks are those that don't have any physcial offices and work entirely from an app and/or website. They are a great way to help save the environment in the banking sector!
 
-## [Bunq](https://www.bunq.com/)
+### [Bunq](https://www.bunq.com/)
 
 Bunq is an app-based banking service that is offered in English, Dutch and some other European languages such as German and Spanish. You can register and open a bank account through their app.
