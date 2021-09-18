@@ -28,7 +28,14 @@ Most banks require an appointment to open an account, but there are some that ac
 
 ### Bring The Necessary Documents 
 
-To open an account, they will, at the very least, ask for your BSN, passport/ID, the acceptance letter from Hanze and the letter from the IND. It's best to carry other documents to the bank as well, in case they ask for them. 
+To open an account, they will, at the very least, ask for these:
+
+1. BSN 
+2. Passport/ID with visa
+3. The acceptance letter from Hanze
+4. The IND letter 
+
+It's best to carry any other important documents you have to the bank as well, in case they ask for them. 
 
 ### Wait For Your Debit Card
 
