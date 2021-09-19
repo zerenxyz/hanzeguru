@@ -22,7 +22,7 @@ style="height: 250px;width: 100%; object-fit: cover;object-position: top;border-
 
 If you're going to live in the Ntherlands, you will need to own a Dutch bank account! Fortunately, there are plenty of options to choose from and all of them provide student accounts. You will find a list of some of the popular Dutch banks below, with links to their corresponding websites. 
 
-Remember, you will need your BSN first before opening an account in any bank. [Click here](https://hanzeguru.nl/groningen/address-registration/) for more information on that.
+Remember, you will need your BSN first before opening an account in any bank. [Click here](../groningen/address-registration.md) for more information on that.
 
 ## ABN AMRO
 

@@ -17,10 +17,10 @@ Make sure to keep heading for each section and do not make big blocks of text.
 Living in the Netherlands means you will need a Dutch bank account to live easily and have access to more services. Additionally, your financial guarentee will only be returned to your new Dutch account, so opening one is crucial as a student. Thankfully, it's a pretty simple process!
 
 !!! note
-    You need to get your BSN before opening a bank account. Read more about that [here](https://hanzeguru.nl/groningen/address-registration/). 
+    You need to get your BSN before opening a bank account. Read more about that [here](../groningen/address-registration.md). 
 
 ### Choose A Bank
-[Click here](https://hanzeguru.nl/banking/dutch-banks/) to get to know some of the options, but it's important to do your own research, too!
+[Click here](./dutch-banks.md) to get to know some of the options, but it's important to do your own research, too!
 
 ### Make An Appointment
 
