@@ -18,25 +18,20 @@ Do you need to borrow equipment for an event or project? Then the Media Desk is 
 
 [Official CMI Media Desk Website](http://cmimediadesk.nl/)
 
-![Studio Microphone](https://i.imgur.com/p1yGlmN.jpg)
-
 ## Reserve Equipment or Sound Studio
 
 1. To make a reservation online, visit the [CMI Media Desk Website](http://cmimediadesk.nl/) and log in with your student e-mail.
 2. Select "Make a reservation".
 3. Select "Reserve Equipment".
 4. Click and drag over the planner to select how long you want to book the equipment for.
-
-!!! tip
-    The Media Desk is open 9:00-12:30 and 13:00-17:00 on weekdays, so book your equipment accordingly!
-
 5. Scroll down the list until you find the equipment you want, after which you have to select the "+" sign on the planner over the time you highlighted.
 
 For most equipment, you will need special permission from the department to borrow it. This happens automatically. However, if you don't recieve any e-mail from their side before your booking time, not to worry! Just make your way to the Media Desk (or call them) and the issue will be resolved.
 
 ## Request Royalty Free Music, Stock Footage and iMac account
 
-These requests will only be allowed for school projects.
+!!! caution
+    These requests will only be allowed for school projects.
 
 1. Visit the [CMI Media Desk Website](http://cmimediadesk.nl/) and log in with your student e-mail.
 2. Select "Requests".
@@ -52,21 +47,22 @@ These requests will only be allowed for school projects.
 ## Contact Information
 
 ### Opening Hours
+=== "09:00 - 12:30"
+    Open from Monday to Friday (excluding holidays)
+    Book your equipment for pickup and dropoff accordingly based on opening hours
+=== "13:00 - 17:00"
+    Open from Monday to Friday (excluding holidays)
+    Book your equipment for pickup and dropoff accordingly based on opening hours
 
-Monday to Friday, 9:00 am – 12:30 pm and 1:00 pm – 5:00 pm
+### Address
 
-### Adress
-
-Office D2.73,
-Zernikeplein 11,
+Office D2.73,<br>
+Zernikeplein 11,<br>
 9747AS, Groningen 
 
-(Go to the second floor the D-wing, enter the last coridoor and keep walking straight until just before the right turn at the end).
+!!! note
+    Go to the second floor the D-wing, enter the last coridoor and keep walking straight until just before the right turn at the end
 
-### E-mail and Numbers
+### E-mail and Phone Number
 
 E-mail: cmi.mediadesk@org.hanze.nl
-
-Tel: 05 05 95 45 80
-
-WhatsApp: 06 14 33 87 04
