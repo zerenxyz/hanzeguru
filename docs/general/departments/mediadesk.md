@@ -63,6 +63,6 @@ Zernikeplein 11,<br>
 !!! note
     Go to the second floor the D-wing, enter the last coridoor and keep walking straight until just before the right turn at the end
 
-### E-mail and Phone Number
+### E-mail
 
 E-mail: cmi.mediadesk@org.hanze.nl
