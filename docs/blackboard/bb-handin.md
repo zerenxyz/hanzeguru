@@ -24,10 +24,9 @@ Click the assignment that you will be submitting (in this ex the one below ‘Dr
 <img src="https://i.imgur.com/i2J6TOq.png" alt="Submission page">
 
 Then select the file of the project you’ve been working on. Keep in mind, only the listed file types will be accepted, because of the plagiarism bot, otherwise it will be considered as a “MO” (Missed Opportunity) and you won’t get graded on it.
+Make sure to carefully read the “Assignment Information” as it contains relevant information, such as if you can/need to submit a .zip file or other file type, if it doesn’t specify that, then just refer to the list under the ‘Attach Files’ section.
 
 <img src="https://i.imgur.com/jva8UXO.png" alt="File specification">
-
-Make sure to carefully read the “Assignment Information” as it contains relevant information, such as if you can/need to submit a .zip file or other file type, if it doesn’t specify that, then just refer to the list under the ‘Attach Files’ section.
 
 ##Submitting
 
