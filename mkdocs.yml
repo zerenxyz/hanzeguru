@@ -1,6 +1,6 @@
 site_name: HanzeGuru
 site_url: https://hanzeguru.nl/
-edit_uri: edit/master/docs/
+edit_uri: https://github.com/zerenxyz/hanzeguru/edit/main/docs/
 theme:
   name: material
   custom_dir: overrides/
