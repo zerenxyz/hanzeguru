@@ -16,7 +16,7 @@ Make sure to keep heading for each section and do not make big blocks of text.
 
 Do you need to borrow equipment for an event or project? Then the Media Desk is there for you! You can find equipments from cameras and a sound studio to royalty free music.
 
-[Official CMI Media Desk Website](http://cmimediadesk.nl/)
+Direct Link: http://cmimediadesk.nl/
 
 ## Reserve Equipment or Sound Studio
 
@@ -65,4 +65,4 @@ Zernikeplein 11,<br>
 
 ### E-mail
 
-E-mail: cmi.mediadesk@org.hanze.nl
+cmi.mediadesk@org.hanze.nl
