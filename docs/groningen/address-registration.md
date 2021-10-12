@@ -18,7 +18,7 @@ Make sure to keep heading for each section and do not make big blocks of text.
 If staying at Groningen for more than 4 months is part of your plan, then you'll need to register at the municipality. Firstly you'll need to make a appointment, either calling there or on their website, right here -> [Groningen Municipality website](https://gemeente.groningen.nl/student-registration-or-deregistration).
 
 
-If you reach something that looks like this you're in the right place <img src="https://i.imgur.com/29Ooq1c.png" alt="Appointment page" style="height: 250px;width: 100%; object-fit: cover;"/>
+If you reach something that looks like this you're in the right place <img src="https://i.imgur.com/29Ooq1c.png" alt="Appointment page"/>
 
 
 You need to have a address in the netherlands, not necessary in Groningen, to be resgitered at (where all your mail will go to).
