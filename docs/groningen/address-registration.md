@@ -23,6 +23,7 @@ If you reach something that looks like this you're in the right place <img src="
 If you wanna register at the Groningen Municipality you need to be residence within the Groningen. If you live in a different city you need to reach out to their city municipality to register your dutch address. This is needed to receive letters at your address from goverment and other institutes.
 
 Remember to bring these documents[^1]:
+
 - Your birth certificate
 - ID (if from EU country) or passport (if non EU country)[^2]
 - Your residence contract agreement. 
