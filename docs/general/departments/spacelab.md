@@ -19,9 +19,7 @@ Simillar to Makerspace, but with more enphasis on VR/AR. Functions simillar to M
 ## Location
 
 Zernikeplein 11, room C2.21
-
 9747 AS Groningen
-
 The Netherlands
 
 ## Opening Hours
