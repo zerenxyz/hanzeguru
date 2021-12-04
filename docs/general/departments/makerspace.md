@@ -12,7 +12,7 @@ Make sure to keep heading for each section and do not make big blocks of text.
 
 -->
 
-# Makerspace
+# Makerspace 
 
 CMI has several places in which you can work on projects. You can make use of those places when you're a student of one of our programmes or when you participate in one of the minors within the institute. The employees of the workplaces can help you with your projects; they also decide which tools you can- or cannot use. 
 
