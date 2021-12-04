@@ -71,9 +71,9 @@ extra:
   #     link: localhost:8000/nl/
   # version:
   #   provider: mike
-  social:
-    - icon: fontawesome/brands/discord
-      link: https://twitter.com/squidfunk
+  # social:
+  #   - icon: fontawesome/brands/discord
+  #     link: https://twitter.com/squidfunk
 copyright: Copyright
 extra_css:
   - stylesheets/extra.css
