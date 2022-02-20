@@ -37,8 +37,7 @@ theme:
     - search.share
     - header.autohide
 markdown_extensions:
-  - toc:
-      permalink: ⚓︎
+  - abbr
   - admonition
   - pymdownx.details
   - pymdownx.superfences
