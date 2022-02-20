@@ -8,24 +8,21 @@ theme:
   custom_dir: overrides/
   palette:
   - scheme: default
-    accent: indiego
+    accent: indigo
     toggle:
       icon: material/weather-night
       name: Switch to dark mode
   - scheme: slate
-    primary:
-    accent: indiego
+    accent: indigo
     toggle:
       icon: material/weather-sunny
       name: Switch to light mode
   font:
     text: Roboto
     code: Roboto Mono
-  language: en-custom
+  language: en
   logo: img/logo.png
   favicon: img/favicon.png
-  # icon:
-  #   logo: fontawesome/solid/life-ring
   features:
     - navigation.instant
     - navigation.tabs
@@ -39,41 +36,46 @@ theme:
 markdown_extensions:
   - abbr
   - admonition
-  - pymdownx.details
-  - pymdownx.superfences
   - attr_list
-  - meta
   - def_list
-  - abbr
-  - pymdownx.snippets
-  - pymdownx.tabbed
-  - pymdownx.superfences
   - footnotes
-  - pymdownx.critic
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+  - meta
+  - md_in_html
+  - toc:
+      permalink: ⚓︎
+  - tables
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+  # - admonition
+  # - pymdownx.details
+  # - pymdownx.superfences
+  # - attr_list
+  # - meta
+  # - def_list
+  # - abbr
+  # - pymdownx.snippets
+  # - pymdownx.tabbed
+  # - pymdownx.superfences
+  # - footnotes
+  # - pymdownx.critic
+  # - pymdownx.superfences:
+  #     custom_fences:
+  #       - name: mermaid
+  #         class: mermaid
+  #         format: !!python/name:pymdownx.superfences.fence_code_format
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:materialx.emoji.twemoji
+  #     emoji_generator: !!python/name:materialx.emoji.to_svg
 extra:
-  # alternate:
-  #   # Switch to English
-  #   - name: English
-  #     lang: en
-  #     link: localhost:8000/en/
-  #   #Switch to Dutch
-  #   - name: Dutch
-  #     lang: nl
-  #     link: localhost:8000/nl/
-  # version:
-  #   provider: mike
-  # social:
-  #   - icon: fontawesome/brands/discord
-  #     link: https://twitter.com/squidfunk
-copyright: Copyright
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/XenYeQShC6
+    - icon: fontawesome/brands/github
+      link: https://github.com/zerenxyz/hanzeguru
+  generator: false
+copyright: Made with ❤️ in Groningen
 extra_css:
   - stylesheets/extra.css
 plugins:
