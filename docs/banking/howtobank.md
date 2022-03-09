@@ -26,7 +26,7 @@ Living in the Netherlands means you will need a Dutch bank account to live easil
 
 Most banks require an appointment to open an account, but there are some that accept walk-in's. Again, make sure to do proper research on the bank you want to go with. If you choose to go with Mobile Banking, then you need not worry about this step.
 
-### Bring The Necessary Documents 
+### Bring The Necessary Documents[^1] 
 
 To open an account, they will, at the very least, ask for these:
 
@@ -44,3 +44,5 @@ If all goes well, your debit card should arrive by mail a few days later. There 
 ### And You're Done! 
 
 If you have any troubles, contact the bank directly (either online, by calling them or by visitng them) to get the best solutions.
+
+[^1]: Please make sure to check the required doucments from the official bank website that you intend to use. This is a general list and they might require more documents.
